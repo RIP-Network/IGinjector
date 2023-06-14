@@ -70,4 +70,9 @@ Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tien
 
 [*] Ultimos 10 seguidores 
 
+# Redes Sociales
 
+YT : https://youtube.com/@RIPNetwork
+YT : https://youtube.com/@RIP-Network
+IG : https://instagram.com/ripnetworkyt
+GH : https://github.com/RIP-Network 
