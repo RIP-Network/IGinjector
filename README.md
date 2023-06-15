@@ -6,6 +6,8 @@ La herramienta esta limitada y a partir del tercer escaneo puede tener errores. 
 
 Es recomendable no usar VPN, activar VPN no mejorara o arreglará el escaneo.
 
+<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/IGinjector/fotos/foto.png"> </p>
+
 # Instalacion
 
 $ apt-get update
