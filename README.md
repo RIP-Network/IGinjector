@@ -6,7 +6,7 @@ La herramienta esta limitada y a partir del tercer escaneo puede tener errores. 
 
 Es recomendable no usar VPN, activar VPN no mejorara o arreglará el escaneo.
 
-<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/IGinjector/fotos/foto.png"> </p>
+<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/IGinjector/blob/main/fotos/foto.png"> </p>
 
 # Instalacion
 
@@ -71,6 +71,10 @@ Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tien
 [*] Primeros 10 seguidores 
 
 [*] Ultimos 10 seguidores 
+
+<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/IGinjector/blob/main/fotos/foto.png2"> </p>
+
+<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/IGinjector/blob/main/fotos/foto3.png"> </p>
 
 # Redes Sociales
 
