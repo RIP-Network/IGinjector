@@ -459,6 +459,7 @@ while opcion != 3:
         print("Nickname :", frase5)
         print("Descripcion :", frase6)
         print("Enlaces:", frase7)
+	print("Email or Number :", verify)
         print("Historia destacada 1 :", frase8)
         print("Historia destacada 2 :", frase9)
         print("Historia destacada 3 :", frase10)
