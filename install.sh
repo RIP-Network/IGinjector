@@ -17,6 +17,7 @@ clear
 apt-get install python3
 apt-get install python3-pip
 pip3 install selenium
+pip3 install pystyle
 wget https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
 sleep 3
 apt-get install unzip
