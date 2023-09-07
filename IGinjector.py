@@ -79,7 +79,7 @@ def mostrar_menu():
    print(rojo+"           [ADVERTENCIA] Usar VPN, Proxys y una conexion de mala calidad puede afectar el escaneo. [ADVERTENCIA]")
    print("")
    print("")
-   print(rojo+"                        [*] 1. Informacion de un usuario."+cierre + rojo+" (Fuera de Servicio) (Sin una Cuenta)"+cierre)
+   print(rojo+"                        [*] 1. Informacion de un usuario."+cierre + rojo+" (En Servicio) (Sin una Cuenta)"+cierre)
    print("")
    print(rojo+"                        [*] 2. Informacion de un usuario mas amplia."+cierre + rojo+" (En Servicio) (Necesita una Cuenta) "+cierre)
    print("")
@@ -99,8 +99,20 @@ while opcion != 3:
     opcion = int(input("Selecciona una opción: "))
 
     if opcion == 1:
-       print("No disponible.")
-       time.sleep(5)
+       os.system('clear')
+       print("")
+       print(rojo+"                       #################################################################################   "+cierre)
+       print(rojo+"                       #                                                                               #    "+cierre)
+       print(rojo+"                       #   ██╗ ██████╗ ██╗███╗   ██╗     ██╗███████╗ ██████╗████████╗ ██████╗ ██████╗  #   "+cierre)
+       print(rojo+"                       #   ██║██╔════╝ ██║████╗  ██║     ██║██╔════╝██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗ #   "+cierre)
+       print(rojo+"                       #   ██║██║  ███╗██║██╔██╗ ██║     ██║█████╗  ██║        ██║   ██║   ██║██████╔╝ #   "+cierre)
+       print(rojo+"                       #   ██║██║   ██║██║██║╚██╗██║██   ██║██╔══╝  ██║        ██║   ██║   ██║██╔══██╗ #    "+cierre)
+       print(rojo+"                       #   ██║╚██████╔╝██║██║ ╚████║╚█████╔╝███████╗╚██████╗   ██║   ╚██████╔╝██║  ██║ #    "+cierre)
+       print(rojo+"                       #   ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚══════╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝ #    "+cierre)
+       print(rojo+"                       #################################################################################")
+       print("")
+       time.sleep(2)
+       os.system('bash modules/injection.sh')
 
     elif opcion == 2:
         print("")
