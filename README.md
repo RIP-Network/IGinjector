@@ -1,6 +1,6 @@
 # IGinjector
 
-[Español🇪🇸](https://github.com/RIP-Network/IGinjector/blob/main/README.md) | [English🇬🇧](https://github.com/XDeadHackerX/NetSoc_OSINT/blob/main/README-English.md)
+[Español🇪🇸](https://github.com/RIP-Network/IGinjector/blob/main/README.md) | [English🇬🇧](https://github.com/RIP-Network/IGinjector/blob/main/modules/README-EN.md)
 
 
 Herramienta de OSINT profundo para la red social instagram, esta herramienta esta creada con python para sacar la maxima infornacion de un usuario de Instagram de manera sencilla y rapida.
