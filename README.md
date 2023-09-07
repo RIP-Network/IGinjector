@@ -78,7 +78,7 @@ Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tien
 
 # Vídeo
 
-<p align="center"><a href="https://ubunlog.com/wp-content/uploads/2018/02/Terminal-Linux.jpg" target="_blank"><img src="https://youtu.be/1bTwZ0IuLJY?si=GnihzGrc4DNpMZWR" width="700px" /></a><p>
+<p align="center"><a href="https://youtu.be/1bTwZ0IuLJY?si=E-yxcxHNE40KLSEN"target="_blank"><img src="https://ubunlog.com/wp-content/uploads/2018/02/Terminal-Linux.jpg" width="700px" /></a><p>
 
 # Redes Sociales
 
