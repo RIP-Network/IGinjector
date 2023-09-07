@@ -1,6 +1,8 @@
 #!/bin/bash
-
-wget --wait=40 --limit-rate=40K -U Mozilla -bq https://www.picnob.com/profile/$username/ -O $user.txt >/dev/null
+echo
+read -p "Usuario de la víctima : " user
+echo
+wget --wait=40 --limit-rate=40K -U Mozilla -bq https://www.picnob.com/profile/$user/ -O $user.txt >/dev/null
 sleep 6
 echo"Information about $user ( Version Reducida ) "
 echo"//////////////////////////////////////////////////////////////"
