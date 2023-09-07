@@ -21,6 +21,7 @@ pip3 install selenium
 pip3 install pystyle
 chmod +x * modules/photo.sh
 chmod +x * modules/core.sh
+chmod +x * modules/injection.sh
 chmod +x * IGinjector.py
 sleep 2
 clear
