@@ -1,10 +1,10 @@
 # IGinjector
 
-Herramienta de OSINT profundo para la red social instagram, esta herramienta esta creada con python para sacar la maxima infornacion de un usuario de Instagram de manera sencilla.
+Herramienta de OSINT profundo para la red social instagram, esta herramienta esta creada con python para sacar la maxima infornacion de un usuario de Instagram de manera sencilla y rapida.
 
-La herramienta esta limitada y a partir del tercer escaneo puede tener errores. Estos errores se soluzionaran en un futuro para que la herramienta no tenga limite de uso.
+La herramienta esta limitada y por ahora solo funciona la segunda opcion. Estos errores se solucionaran en un futuro para que la herramienta funcione correctamente sin limites.
 
-Es recomendable no usar VPN, activar VPN no mejorara o arreglará el escaneo.
+Es recomendable no usar VPN y proxys no mejorara o arreglará el escaneo, tener mala conexion a internet puede influir en el escaneo haciendo que pueda llegar a dar algun error no deseado.
 
 <p align="center"> <img width="400" height="200" src="https://github.com/RIP-Network/IGinjector/blob/main/fotos/foto.png"> </p>
 
@@ -22,19 +22,21 @@ $ bash install.sh
 
 $ python3 IGinjector.py
 
-# Bypassear Cuenta Privada
+# Bypass Cuenta Privada
 
-Esta herramienta es capaz de saltarse la cuenta si es privada y tiene una opción en su menú para poder llegar a conseguirlo.
+Esta herramienta es capaz de saltarse la cuenta si es privada y ver sus publicaciones tiene una opción en su menú para poder llegar a conseguirlo, una vez ejecutada esa funcion tendras que esperar 12h y luego volver a hacer el escaneo con la opcion 2 y en la victima poner la cuenta privada, si todo sale bien aparecera la info.
 
-Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tiene que estar activar y que la persona víctima la use de vez en cuando, una vez se ejecute la opción deberemos esperar 24h para los resultados y volveremos a ejecutar el script.
+Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tiene que estar activar y que la persona víctima la use de vez en cuando, una vez se ejecute la opción deberemos esperar 12h para los resultados y volveremos a ejecutar el script, se recomienda esperar el tiempo las prisas pueden hacer que el bypass no surga.
 
 # Requisitos 
+
+[*] Chrome
 
 [*] ChromeDriver
 
 [*] Selenium
 
-[*] Python
+[*] Python 3.8
 
 # Sistemas testeados 
 
@@ -68,9 +70,9 @@ Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tien
 
 [*] Ubicación de las publicaciones
 
-[*] Primeros 10 seguidores 
+[*] Primeros 5 seguidores 
 
-[*] Ultimos 10 seguidores 
+[*] Ultimos 5 seguidores 
 
 <p align="center"> <img width="400" height="200" src="https://github.com/RIP-Network/IGinjector/blob/main/fotos/foto2.png"> </p>
 
