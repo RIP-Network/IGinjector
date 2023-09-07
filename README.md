@@ -94,6 +94,7 @@ Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tien
 
 Si crees que has encontrado algún fallo puedes reportarlo [AQUI](https://github.com/RIP-Network/IGinjector/issues/new).
 
+[![Logo de GitHub](https://cdn.wallpapersafari.com/34/82/YRzXPk.jpeg)](https://github.com/)
 
 # Redes Sociales
 
