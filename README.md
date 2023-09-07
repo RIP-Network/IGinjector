@@ -6,7 +6,7 @@ La herramienta esta limitada y por ahora solo funciona la segunda opcion. Estos 
 
 Es recomendable no usar VPN y proxys no mejorara o arreglará el escaneo, tener mala conexion a internet puede influir en el escaneo haciendo que pueda llegar a dar algun error no deseado.
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.1-purple.svg?style=for-the-badge"/></p>
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-8.0-red.svg?style=for-the-badge"/></p>
 
 <p align="center"> <img width="400" height="200" src="https://github.com/RIP-Network/IGinjector/blob/main/fotos/foto.png"> </p>
 
