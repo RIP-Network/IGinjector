@@ -113,6 +113,7 @@ while opcion != 3:
        print("")
        time.sleep(2)
        os.system('bash modules/injection.sh')
+       break
 
     elif opcion == 2:
         print("")
