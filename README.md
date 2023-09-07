@@ -90,6 +90,11 @@ Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tien
 
 [![Demo](https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZSUyMHRodW1ibmFpbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1200&q=60)](https://youtu.be/1bTwZ0IuLJY?si=rIK4NMC1rbBE-LAC)
 
+# Reportar error
+
+Si crees que has encontrado algún fallo puedes reportarlo [aquí](https://www.ejemplo.com).
+
+
 # Redes Sociales
 
 * YT : https://youtube.com/@RIPNetwork
