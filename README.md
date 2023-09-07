@@ -92,7 +92,7 @@ Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tien
 
 # Reportar error
 
-Si crees que has encontrado algún fallo puedes reportarlo [aquí](https://www.ejemplo.com).
+Si crees que has encontrado algún fallo puedes reportarlo [aquí](https://github.com/RIP-Network/IGinjector/issues/new).
 
 
 # Redes Sociales
