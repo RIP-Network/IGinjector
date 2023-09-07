@@ -35,7 +35,8 @@ Esta herramienta es capaz de saltarse la cuenta si es privada y ver sus publicac
 
 Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tiene que estar activar y que la persona víctima la use de vez en cuando, una vez se ejecute la opción deberemos esperar 12h para los resultados y volveremos a ejecutar el script, se recomienda esperar el tiempo las prisas pueden hacer que el bypass no surga.
 
-# Requisitos 
+# Requisitos
+```bash
 
 [*] Chrome
 
@@ -44,16 +45,18 @@ Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tien
 [*] Selenium
 
 [*] Python 3.8
-
-# Sistemas testeados 
+```
+# Sistemas testeados
+```bash
 
 [*] Parrot OS
 
 [*] Kali Linux 
 
 [*] Ubuntu 
-
+```
 # Informacion extraida
+```bash
 
 [*] Foto de perfil
 
@@ -80,7 +83,7 @@ Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tien
 [*] Primeros 5 seguidores 
 
 [*] Ultimos 5 seguidores
-
+```
 # Vídeo
 
 [![Demo](https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZSUyMHRodW1ibmFpbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1200&q=60)](https://youtu.be/1bTwZ0IuLJY?si=rIK4NMC1rbBE-LAC)
