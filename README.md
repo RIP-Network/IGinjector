@@ -37,6 +37,8 @@ Esta herramienta es capaz de saltarse la cuenta si es privada y ver sus publicac
 
 Si la cuenta está inactiva y abandonada el bypass no funcionara, la cuenta tiene que estar activar y que la persona víctima la use de vez en cuando, una vez se ejecute la opción deberemos esperar 12h para los resultados y volveremos a ejecutar el script, se recomienda esperar el tiempo las prisas pueden hacer que el bypass no surga.
 
+<p align="center"> <img width="400" height="200" src="https://github.com/RIP-Network/IGinjector/blob/main/fotos/foto4.png"> </p>
+
 # Requisitos
 ```bash
 
