@@ -14,6 +14,7 @@ Es recomendable no usar VPN y proxys no mejorara o arreglará el escaneo, tener 
 <p align="center"> <img width="400" height="200" src="https://github.com/RIP-Network/IGinjector/blob/main/fotos/logo.png"> </p>
 
 # Instalacion
+```bash
 
 $ apt-get update
 
@@ -26,6 +27,7 @@ $ cd IGinjector
 $ bash install.sh
 
 $ python3 IGinjector.py
+```
 
 # Bypass Cuenta Privada
 
